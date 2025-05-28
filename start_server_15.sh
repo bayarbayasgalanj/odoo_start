@@ -1,1 +1,1 @@
-python3.8 /Users/baysa/git_code/odoo15/odoo-bin -c odoo15.conf
+python3.9 /Users/baysa/git_code/odoo15e/odoo-bin -c odoo15.conf
